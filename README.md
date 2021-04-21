@@ -9,7 +9,7 @@
  A no-frills site to display photos. 
 
  ## Introduction
- Photo port is a portfolio site for a photographer for local businesses.
+ Photo port is a portfolio site for a photographer for local businesses. This single-page application called Oh Snap! uses React state, props, Hooks, and reusable UI components to provide a simple yet sleek platform for showing off those photography skills.
 
 ## Built With
 
@@ -58,7 +58,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-* #`npm run eject`
+* `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
