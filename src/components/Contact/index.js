@@ -1,11 +1,39 @@
 import React, { useState } from 'react';
+import { validateEmail } from '../../utils/helpers';
 
 function ContactForm() {
     const [formState, setFormState] = useState({ name: '', email: '', message: '' });
     const { name, email, message } = formState;
+    const [errorMessage, setErrorMessage] = useState('');
+
     function handleChange(e) {
+
+        if (e.target.name === 'email') {
+            const isValid = validateEmail(e.target.value);
+            console.log(isValid);
+            // isValid conditional statement
+            if (!isValid) {
+                setErrorMessage('Your email is invalid.');
+            } else {
+                setErrorMessage('');
+            }
+        } else {
+            if (!e.target.value.length) {
+                setErrorMessage(`${e.target.name} is required.`);
+            } else {
+                setErrorMessage('');
+            }
+        }  
+
         // setFormState({...formState, name: e.target.value })
         setFormState({...formState, [e.target.name]: e.target.value })
+        
+        //  wrap the setter function, setFormState, in a conditional so that the state only updates if the form data has passed the quality tests
+        if (!errorMessage) {
+            setFormState({ ...formState, [e.target.name]: e.target.value });
+        }
+        console.log('errorMessage', errorMessage);
+
     }
       
     // console.log(formState);
