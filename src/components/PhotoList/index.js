@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Modal from '../Modal';
 
 import photo from '../../assets/small/commercial/0.jpg';
 
@@ -106,6 +107,7 @@ const PhotoList = ({category}) => {
 
   return (
     <div>
+      <Modal></Modal>
       <div className="flex-row">
         {currentPhotos.map((image, i) => (
           <img
