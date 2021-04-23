@@ -1,6 +1,6 @@
 #  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Photo Port
 
-[Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [Built With](#Built-With) &nbsp; &nbsp; [User Story](#User-Story) &nbsp; &nbsp; [Acceptance Criteria](#Acceptance-Criteria) &nbsp; &nbsp; [Mock-Up](#Mock-up) &nbsp; &nbsp; [Code Review](#Code-Review)   
+[Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [Built With](#Built-With) &nbsp; &nbsp; [Mock-Up](#Mock-up) &nbsp; &nbsp; [Code Review](#Code-Review) &nbsp; &nbsp; [About Create React App](#About-Create-React-App)   
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [***Live Project***](#Live-Project)
 
@@ -10,6 +10,10 @@
 
  ## Introduction
  Photo port is a portfolio site for a photographer for local businesses. This single-page application called Oh Snap! uses React state, props, Hooks, and reusable UI components to provide a simple yet sleek platform for showing off those photography skills.
+
+## Live Project
+
+Vist the [Oh Snap! website]() and enjoy the photos!
 
 ## Built With
 
@@ -26,6 +30,13 @@
 * [React Testing Library](https://www.npmjs.com/package/@testing-library/react)
 * [Jest DOM testing Library](https://www.npmjs.com/package/@testing-library/jest-dom)
 
+## Mock-up
+
+
+## Code Review
+
+[GitHub Repository](https://github.com/rosefrancis-tech/photo-port)
+[GitHub Projects](https://github.com/rosefrancis-tech/photo-port/projects/1?fullscreen=true)
 
 ## About Create React App
 
