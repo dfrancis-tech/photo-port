@@ -35,7 +35,7 @@ Vist the [Oh Snap! website]() and enjoy the photos!
 
 ## Code Review
 
-[GitHub Repository](https://github.com/rosefrancis-tech/photo-port)
+[GitHub Repository](https://github.com/rosefrancis-tech/photo-port)  
 [GitHub Projects](https://github.com/rosefrancis-tech/photo-port/projects/1?fullscreen=true)
 
 ## About Create React App
