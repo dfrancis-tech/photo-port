@@ -27,6 +27,7 @@ function App() {
       <main>
       {!contactSelected ? ( // ternary operator for 'if'
         <> 
+          
           <Gallery currentCategory={currentCategory}></Gallery>
           <About></About>
         </>
