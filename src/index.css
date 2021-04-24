@@ -14,7 +14,8 @@ main {
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
-  --spacing-five: calc(2.5rem);
+  --spacing-five: calc(5rem);
+  --spacing-ten: calc(50rem);
 
 }
 
@@ -210,6 +211,7 @@ textarea {
 .my-5 {
   margin-top: var(--spacing-five);
   margin-bottom: var(--spacing-five);
+  padding-top: 20%;
 }
 
 .px-1 {

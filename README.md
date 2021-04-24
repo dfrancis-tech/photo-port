@@ -1,6 +1,6 @@
 #  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Photo Port
 
-[Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [Built With](#Built-With) &nbsp; &nbsp; [Mock-Up](#Mock-up) &nbsp; &nbsp; [Code Review](#Code-Review) &nbsp; &nbsp; [About Create React App](#About-Create-React-App)   
+[Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [Built With](#Built-With) &nbsp; &nbsp; [Code Review](#Code-Review) &nbsp; &nbsp; [About Create React App](#About-Create-React-App)   
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [***Live Project***](#Live-Project)
 
@@ -13,7 +13,7 @@
 
 ## Live Project
 
-Vist the [Oh Snap! website]() and enjoy the photos!
+Vist the [Oh Snap! website](https://rosefrancis-tech.github.io/photo-port/) and enjoy the photos!
 
 ## Built With
 
@@ -29,9 +29,6 @@ Vist the [Oh Snap! website]() and enjoy the photos!
 * [create-react-app](https://www.npmjs.com/package/create-react-app)
 * [React Testing Library](https://www.npmjs.com/package/@testing-library/react)
 * [Jest DOM testing Library](https://www.npmjs.com/package/@testing-library/jest-dom)
-
-## Mock-up
-
 
 ## Code Review
 
